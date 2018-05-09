@@ -1,0 +1,14 @@
+package Lection2;
+
+        import java.util.Scanner;
+
+public class L5_TrapeziodArea {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        Double b1 = Double.parseDouble(scanner.nextLine());
+        Double b2 = Double.parseDouble(scanner.nextLine());
+        Double h = Double.parseDouble(scanner.nextLine());
+        Double sum = ((b1 + b2) * h) / 2;
+        System.out.println(sum);
+    }
+}
