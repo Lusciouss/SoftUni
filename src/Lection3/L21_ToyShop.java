@@ -12,7 +12,7 @@ public class L21_ToyShop {
         int Minions = Integer.parseInt(scanner.nextLine());
         int Trucks = Integer.parseInt(scanner.nextLine());
 
-        double Sum = (Puzzle * 2.6) + (Dolls * 3) + (Beers * 4.1) + (Minions * 8.2) + (Trucks * 2);
+        double Sum = (Puzzle * 2.6) + (Dolls * 3) + (Beers * 4.1) + (Minions * 8.2) + (Trucks * 2); //all
         int SumToys = Puzzle + Dolls + Beers + Minions + Trucks;
 
         if (SumToys >= 50){
