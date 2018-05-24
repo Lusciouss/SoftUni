@@ -24,6 +24,6 @@ public class L18_AlcoholMarket {
         Double Result = SumRakia + SumWine + SumBeer + SumWhiskey;
         System.out.printf("%.2f", Result);
 
-
+//
     }
 }
