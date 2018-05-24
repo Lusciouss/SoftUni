@@ -4,15 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/src/Lection2/L3_Hello.java" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad2ac0f7-4108-450a-879d-bcf376233bad" name="Default" comment="Update4">
-      <change afterPath="$PROJECT_DIR$/src/Lection4/L10_AnimalType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lection4/L11_Cinema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lection4/L12_Volleyball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lection4/L14_TimeForTheExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lection4/L7_FruitShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lection4/L8_TradeComissions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lection4/L9_DayOfWeek.java" afterDir="false" />
+    <list default="true" id="ad2ac0f7-4108-450a-879d-bcf376233bad" name="Default" comment="Update L">
+      <change afterPath="$PROJECT_DIR$/src/Lection4/L17_MatchTickets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lection4/L14_TimeForTheExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection4/L15_traveling.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,7 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/L1_HelloJava.java" />
         <option value="$PROJECT_DIR$/src/L2_Expression.java" />
         <option value="$PROJECT_DIR$/src/L3_Nums1To20.java" />
         <option value="$PROJECT_DIR$/src/L4_TriangleOf55Stars.java" />
@@ -88,6 +82,8 @@
         <option value="$PROJECT_DIR$/src/Lection4/L11_Cinema.java" />
         <option value="$PROJECT_DIR$/src/Lection4/L12_Volleyball.java" />
         <option value="$PROJECT_DIR$/src/Lection4/L14_TimeForTheExam.java" />
+        <option value="$PROJECT_DIR$/src/Lection4/L15_traveling.java" />
+        <option value="$PROJECT_DIR$/src/Lection4/L17_MatchTickets.java" />
       </list>
     </option>
   </component>
@@ -112,8 +108,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,6 +148,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.L12_Volleyball">
+  <component name="RunManager" selected="Application.L17_MatchTickets">
     <configuration name="L10_AnimalType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lection4.L10_AnimalType" />
       <module name="Java" />
@@ -203,6 +199,26 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="L15_traveling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lection4.L15_traveling" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="L17_MatchTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lection4.L17_MatchTickets" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="L1_HelloJava" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lection1.L1_HelloJava" />
       <module name="Java" />
@@ -215,43 +231,23 @@
       <option name="MAIN_CLASS_NAME" value="Lection1.L4_TriangleOf55Stars" />
       <module name="Java" />
     </configuration>
-    <configuration name="L8_TradeComissions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lection4.L8_TradeComissions" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="L9_DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lection4.L9_DayOfWeek" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
       <item itemvalue="Application.L3_Nums1To20" />
       <item itemvalue="Application.L4_TriangleOf55Stars" />
       <item itemvalue="Application.L1_HelloJava" />
-      <item itemvalue="Application.L8_TradeComissions" />
-      <item itemvalue="Application.L9_DayOfWeek" />
       <item itemvalue="Application.L10_AnimalType" />
       <item itemvalue="Application.L11_Cinema" />
       <item itemvalue="Application.L12_Volleyball" />
+      <item itemvalue="Application.L15_traveling" />
+      <item itemvalue="Application.L17_MatchTickets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L17_MatchTickets" />
+        <item itemvalue="Application.L15_traveling" />
         <item itemvalue="Application.L12_Volleyball" />
         <item itemvalue="Application.L11_Cinema" />
         <item itemvalue="Application.L10_AnimalType" />
-        <item itemvalue="Application.L9_DayOfWeek" />
-        <item itemvalue="Application.L8_TradeComissions" />
       </list>
     </recent_temporary>
   </component>
@@ -280,10 +276,17 @@
       <option name="project" value="LOCAL" />
       <updated>1527004531426</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update4">
+      <created>1527026235801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527026235801</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -296,31 +299,31 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" visible="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.32838285" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4969743" weight="0.32838285" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4969743" weight="0.32838285" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5045386" side_tool="true" visible="true" weight="0.32838285" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49546143" weight="0.32838285" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978038" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4977307" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4924357" weight="0.32838285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49546143" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.32838285" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17019667" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39768976" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39768976" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,7 +370,7 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="25" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -375,20 +378,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lection2/L4_NameAndAge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="72" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection2/L2_InchesToCentimeters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lection2/L3_Hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -663,23 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection4/L11_Cinema.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection4/L12_Volleyball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="5" lean-forward="true" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lection4/L10_AnimalType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -722,10 +694,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection4/L14_TimeForTheExam.java">
+    <entry file="file://$PROJECT_DIR$/src/Lection4/L11_Cinema.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="204">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection4/L12_Volleyball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection4/L15_traveling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="2578" selection-start-line="2578" selection-end-line="2578" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection4/L17_MatchTickets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="49" column="33" lean-forward="true" selection-end-line="60" />
         </state>
       </provider>
     </entry>
