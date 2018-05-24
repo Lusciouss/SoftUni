@@ -4,10 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/src/Lection2/L3_Hello.java" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad2ac0f7-4108-450a-879d-bcf376233bad" name="Default" comment="Update L">
-      <change afterPath="$PROJECT_DIR$/src/Lection4/L17_MatchTickets.java" afterDir="false" />
+    <list default="true" id="ad2ac0f7-4108-450a-879d-bcf376233bad" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L1_NumbersFrom1to100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L2_NumbersEndingIn7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L3_LatinLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L4_SumNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lection4/L14_TimeForTheExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lection4/L15_traveling.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +20,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="L4_SumNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lection5/L4_SumNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,10 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/L2_Expression.java" />
-        <option value="$PROJECT_DIR$/src/L3_Nums1To20.java" />
-        <option value="$PROJECT_DIR$/src/L4_TriangleOf55Stars.java" />
-        <option value="$PROJECT_DIR$/src/Lection1/L4_TriangleOf55Stars.java" />
         <option value="$PROJECT_DIR$/src/Lection2/L1_SquareArea.java" />
         <option value="$PROJECT_DIR$/src/Lection2/L2_InchesToCentimeters.java" />
         <option value="$PROJECT_DIR$/src/Lection2/L3_Hello.java" />
@@ -52,7 +60,6 @@
         <option value="$PROJECT_DIR$/src/Lection2/L15_TailoringWorkshop.java" />
         <option value="$PROJECT_DIR$/src/Lection2/L16_DanceHall.java" />
         <option value="$PROJECT_DIR$/src/Lection2/L17_Campanies.java" />
-        <option value="$PROJECT_DIR$/src/Lection2/L18_AlcoholMarket.java" />
         <option value="$PROJECT_DIR$/src/Lection3/L1_Ocenka.java" />
         <option value="$PROJECT_DIR$/src/Lection3/L1_ExcellentResult.java" />
         <option value="$PROJECT_DIR$/src/Lection3/L2_ExcellentOrNot.java" />
@@ -67,7 +74,6 @@
         <option value="$PROJECT_DIR$/src/Lection3/L11_EqualWords.java" />
         <option value="$PROJECT_DIR$/src/Lection3/L12_SpeedInfo.java" />
         <option value="$PROJECT_DIR$/src/Lection3/L13_AreaOfFigures.java" />
-        <option value="$PROJECT_DIR$/src/Lection3/L21_ToyShop.java" />
         <option value="$PROJECT_DIR$/src/Lection3/L20_Record.java" />
         <option value="$PROJECT_DIR$/src/Lection4/L1_PersonalTitles.java" />
         <option value="$PROJECT_DIR$/src/Lection4/L1.java" />
@@ -84,6 +90,12 @@
         <option value="$PROJECT_DIR$/src/Lection4/L14_TimeForTheExam.java" />
         <option value="$PROJECT_DIR$/src/Lection4/L15_traveling.java" />
         <option value="$PROJECT_DIR$/src/Lection4/L17_MatchTickets.java" />
+        <option value="$PROJECT_DIR$/src/Lection3/L21_ToyShop.java" />
+        <option value="$PROJECT_DIR$/src/Lection2/L18_AlcoholMarket.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L1_NumbersFrom1to100.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L2_NumbersEndingIn7.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L3_LatinLetters.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L4_SumNumbers.java" />
       </list>
     </option>
   </component>
@@ -144,6 +156,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Lection4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lection5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -168,47 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.L17_MatchTickets">
-    <configuration name="L10_AnimalType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lection4.L10_AnimalType" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="L11_Cinema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lection4.L11_Cinema" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="L12_Volleyball" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lection4.L12_Volleyball" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="L15_traveling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lection4.L15_traveling" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.L4_SumNumbers">
     <configuration name="L17_MatchTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lection4.L17_MatchTickets" />
       <module name="Java" />
@@ -223,9 +201,49 @@
       <option name="MAIN_CLASS_NAME" value="Lection1.L1_HelloJava" />
       <module name="Java" />
     </configuration>
+    <configuration name="L1_NumbersFrom1to100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lection5.L1_NumbersFrom1to100" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="L2_NumbersEndingIn7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lection5.L2_NumbersEndingIn7" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="L3_LatinLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lection5.L3_LatinLetters" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="L3_Nums1To20" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lection1.L3_Nums1To20" />
       <module name="Java" />
+    </configuration>
+    <configuration name="L4_SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lection5.L4_SumNumbers" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="L4_TriangleOf55Stars" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lection1.L4_TriangleOf55Stars" />
@@ -235,19 +253,19 @@
       <item itemvalue="Application.L3_Nums1To20" />
       <item itemvalue="Application.L4_TriangleOf55Stars" />
       <item itemvalue="Application.L1_HelloJava" />
-      <item itemvalue="Application.L10_AnimalType" />
-      <item itemvalue="Application.L11_Cinema" />
-      <item itemvalue="Application.L12_Volleyball" />
-      <item itemvalue="Application.L15_traveling" />
       <item itemvalue="Application.L17_MatchTickets" />
+      <item itemvalue="Application.L1_NumbersFrom1to100" />
+      <item itemvalue="Application.L2_NumbersEndingIn7" />
+      <item itemvalue="Application.L3_LatinLetters" />
+      <item itemvalue="Application.L4_SumNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L4_SumNumbers" />
+        <item itemvalue="Application.L3_LatinLetters" />
+        <item itemvalue="Application.L2_NumbersEndingIn7" />
+        <item itemvalue="Application.L1_NumbersFrom1to100" />
         <item itemvalue="Application.L17_MatchTickets" />
-        <item itemvalue="Application.L15_traveling" />
-        <item itemvalue="Application.L12_Volleyball" />
-        <item itemvalue="Application.L11_Cinema" />
-        <item itemvalue="Application.L10_AnimalType" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +301,28 @@
       <option name="project" value="LOCAL" />
       <updated>1527026235801</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update L17">
+      <created>1527183724690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1527183724691</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update L21">
+      <created>1527183876203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527183876203</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update L18">
+      <created>1527183975199</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1527183975199</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -297,33 +336,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4969743" weight="0.32838285" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4969743" weight="0.32838285" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49621785" weight="0.32838285" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49394855" weight="0.32838285" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5045386" side_tool="true" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5075643" side_tool="true" visible="true" weight="0.32838285" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4924357" weight="0.32838285" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49546143" visible="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49092284" weight="0.32838285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4924357" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49621785" weight="0.32838285" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39768976" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977307" weight="0.39768976" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,7 +398,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test4" />
     <MESSAGE value="Update4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update4" />
+    <MESSAGE value="Update L17" />
+    <MESSAGE value="Update L21" />
+    <MESSAGE value="Update L18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update L18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -378,34 +421,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lection2/L3_Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection2/L8_TriangleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection2/L9_CelsiusFahrenheit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection2/L10_RadiansDegrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="15" lean-forward="true" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lection2/L7_RectangleArea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -581,13 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection2/L18_AlcoholMarket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lection3/L22.java" />
     <entry file="file://$PROJECT_DIR$/src/Lection4/L1_PersonalTitles.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -628,13 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection3/L21_ToyShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -725,10 +726,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection3/L21_ToyShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection2/L18_AlcoholMarket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L1_NumbersFrom1to100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lection4/L17_MatchTickets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
+        <state relative-caret-position="691">
           <caret line="49" column="33" lean-forward="true" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L2_NumbersEndingIn7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L3_LatinLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="4" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L4_SumNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
