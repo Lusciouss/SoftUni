@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad2ac0f7-4108-450a-879d-bcf376233bad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lection5/L1_NumbersFrom1to100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lection5/L2_NumbersEndingIn7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lection5/L3_LatinLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lection5/L4_SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L10_HalfSumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L12_EqualPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L13_Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L5_MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L6_MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L7_LeftRightSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L8_OddEvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lection5/L9_VowelsSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="L4_SumNumbers.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lection5/L4_SumNumbers.java">
+      <file leaf-file-name="L13_Histogram.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lection5/L13_Histogram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="198">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -45,14 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lection2/L1_SquareArea.java" />
-        <option value="$PROJECT_DIR$/src/Lection2/L2_InchesToCentimeters.java" />
-        <option value="$PROJECT_DIR$/src/Lection2/L3_Hello.java" />
-        <option value="$PROJECT_DIR$/src/Lection2/L4_NameAndAge.java" />
-        <option value="$PROJECT_DIR$/src/Lection2/L5_TrapeziodArea.java" />
-        <option value="$PROJECT_DIR$/src/Lection2/L6_CircleAreaAndPerimeter.java" />
-        <option value="$PROJECT_DIR$/src/Lection2/L7_RectangleArea.java" />
-        <option value="$PROJECT_DIR$/src/Lection2/L8_TriangleArea.java" />
         <option value="$PROJECT_DIR$/src/Lection2/L9_CelsiusFahrenheit.java" />
         <option value="$PROJECT_DIR$/src/Lection2/L10_RadiansDegrees.java" />
         <option value="$PROJECT_DIR$/src/Lection2/L11_USDtoBGN.java" />
@@ -96,6 +92,14 @@
         <option value="$PROJECT_DIR$/src/Lection5/L2_NumbersEndingIn7.java" />
         <option value="$PROJECT_DIR$/src/Lection5/L3_LatinLetters.java" />
         <option value="$PROJECT_DIR$/src/Lection5/L4_SumNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L5_MaxNumber.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L6_MinNumber.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L7_LeftRightSum.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L8_OddEvenSum.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L9_VowelsSum.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L10_HalfSumElement.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L12_EqualPairs.java" />
+        <option value="$PROJECT_DIR$/src/Lection5/L13_Histogram.java" />
       </list>
     </option>
   </component>
@@ -119,7 +123,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,8 +171,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,13 +190,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.L4_SumNumbers">
-    <configuration name="L17_MatchTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lection4.L17_MatchTickets" />
+  <component name="RunManager" selected="Application.L13_Histogram">
+    <configuration name="L10_HalfSumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lection5.L10_HalfSumElement" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lection4.*" />
+          <option name="PATTERN" value="Lection5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="L12_EqualPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lection5.L12_EqualPairs" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="L13_Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lection5.L13_Histogram" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,71 +225,51 @@
       <option name="MAIN_CLASS_NAME" value="Lection1.L1_HelloJava" />
       <module name="Java" />
     </configuration>
-    <configuration name="L1_NumbersFrom1to100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lection5.L1_NumbersFrom1to100" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="L2_NumbersEndingIn7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lection5.L2_NumbersEndingIn7" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="L3_LatinLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lection5.L3_LatinLetters" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="L3_Nums1To20" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lection1.L3_Nums1To20" />
       <module name="Java" />
-    </configuration>
-    <configuration name="L4_SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lection5.L4_SumNumbers" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="L4_TriangleOf55Stars" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lection1.L4_TriangleOf55Stars" />
       <module name="Java" />
     </configuration>
+    <configuration name="L8_OddEvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lection5.L8_OddEvenSum" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="L9_VowelsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lection5.L9_VowelsSum" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
       <item itemvalue="Application.L3_Nums1To20" />
       <item itemvalue="Application.L4_TriangleOf55Stars" />
       <item itemvalue="Application.L1_HelloJava" />
-      <item itemvalue="Application.L17_MatchTickets" />
-      <item itemvalue="Application.L1_NumbersFrom1to100" />
-      <item itemvalue="Application.L2_NumbersEndingIn7" />
-      <item itemvalue="Application.L3_LatinLetters" />
-      <item itemvalue="Application.L4_SumNumbers" />
+      <item itemvalue="Application.L8_OddEvenSum" />
+      <item itemvalue="Application.L9_VowelsSum" />
+      <item itemvalue="Application.L10_HalfSumElement" />
+      <item itemvalue="Application.L12_EqualPairs" />
+      <item itemvalue="Application.L13_Histogram" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L4_SumNumbers" />
-        <item itemvalue="Application.L3_LatinLetters" />
-        <item itemvalue="Application.L2_NumbersEndingIn7" />
-        <item itemvalue="Application.L1_NumbersFrom1to100" />
-        <item itemvalue="Application.L17_MatchTickets" />
+        <item itemvalue="Application.L13_Histogram" />
+        <item itemvalue="Application.L12_EqualPairs" />
+        <item itemvalue="Application.L10_HalfSumElement" />
+        <item itemvalue="Application.L9_VowelsSum" />
+        <item itemvalue="Application.L8_OddEvenSum" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527183975199</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update L4">
+      <created>1527199520612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1527199520612</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -339,26 +350,26 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49621785" weight="0.32838285" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49394855" weight="0.32838285" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49546143" weight="0.32838285" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49319214" weight="0.32838285" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5075643" side_tool="true" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.51966715" side_tool="true" visible="true" weight="0.32838285" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49092284" weight="0.32838285" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4924357" visible="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49621785" weight="0.32838285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48033282" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49546143" weight="0.32838285" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977307" weight="0.39768976" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48865354" weight="0.39768976" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -401,7 +412,8 @@
     <MESSAGE value="Update L17" />
     <MESSAGE value="Update L21" />
     <MESSAGE value="Update L18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update L18" />
+    <MESSAGE value="Update L4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update L4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -412,8 +424,20 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lection5/L12_EqualPairs.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lection5/L13_Histogram.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="25" />
+      <option name="time" value="33" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -421,69 +445,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lection2/L7_RectangleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection2/L6_CircleAreaAndPerimeter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection2/L5_TrapeziodArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection2/L1_SquareArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection1/L4_TriangleOf55Stars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection1/L3_Nums1To20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection1/L2_Expression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection1/L1_HelloJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lection3/L1_ExcellentResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lection3/L2_ExcellentOrNot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -770,8 +731,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lection5/L4_SumNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L6_MinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="17" column="21" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L8_OddEvenSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="15" column="27" lean-forward="true" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L9_VowelsSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="27" column="26" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L5_MaxNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L7_LeftRightSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L12_EqualPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="112" column="44" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L10_HalfSumElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lection5/L13_Histogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
         </state>
       </provider>
     </entry>
